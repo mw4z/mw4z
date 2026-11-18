@@ -10,10 +10,9 @@ communities, and Arabic-first experiences.
   [Download](https://github.com/mw4z/Kizuna/releases/latest)
 - 🏘️ **[Hai (حي)](https://github.com/mw4z/hai-app)**: neighborhood social platform for Saudi cities (districts,
   reputation, rides), in Arabic, English and Urdu, on the web, Android and iOS.
+  [Website](https://hai-website.vercel.app)
 - ⚽ **[WC 2026 Predictions](https://github.com/mw4z/wc2026)**: internal World Cup prediction game, Arabic
   right-to-left, Next.js + Prisma on Vercel. [Live](https://wc2026-khaki-rho.vercel.app)
-- 🗓️ **[Cluster IT Roster](https://github.com/mw4z/cluster-it-roster)**: IT-support shift roster dashboard with a
-  WhatsApp bot that announces who's on duty.
 - 🗣️ **[Alexa AI Arabic](https://github.com/mw4z/alexa-ai-arabic)**: an Arabic voice assistant for Alexa, powered by
   an AI model.
 
